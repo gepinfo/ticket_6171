@@ -199,6 +199,10 @@ import React, { useState,useEffect } from 'react';
                                                                 <div id="iytw4t" className="cell gpd-clm">
 <a id="i9imej" className="gpd-text" href='/template'>template</a>
                                         
+<a id="i9imej" className="gpd-text" href='/dashboard'>Dashboard</a>
+                                        
+<a id="i9imej" className="gpd-text" href='/profitandloss'>profitAndloss</a>
+                                        
 </div>
 </div>
 </div>

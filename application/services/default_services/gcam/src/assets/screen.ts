@@ -7,5 +7,9 @@
 {"resources":"sefscreen", "role":"Guest"}
     ,
 {"resources":"template", "role":"Guest"}
+    ,
+{"resources":"Dashboard", "role":"Guest"}
+    ,
+{"resources":"profitAndloss", "role":"Guest"}
     
 ]

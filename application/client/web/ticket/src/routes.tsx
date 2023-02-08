@@ -24,7 +24,9 @@ let routes: any = [
 { path: '/managecontrol', component: Managecontrol },
 { path: '/usermanagement', component: User },
 { path: '/profile', component: ProfilesettingsComponent },
-{ path : '/template', component: lazy(()=>import('./app/template/template')) },
+{ path : '/sample screen', component: lazy(()=>import('./app/sample screen/sample screen')) },
+{ path : '/dashboard', component: lazy(()=>import('./app/dashboard/dashboard')) },
+{ path : '/profitandloss', component: lazy(()=>import('./app/profitandloss/profitandloss')) },
 { path: "", component: Template }
 
 ];
