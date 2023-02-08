@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.sidenav.closebtn {
+    color: white;
+    position: absolute;
+    top: -18px;
+    right: 0px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.sidenava {
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: rgb(255255255);
+    display: block;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.gjs-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.gjs-cell {
+    min-height: 75px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+#template-ihnwn {
+    flex-basis: 15%;
+    padding: 015px015px;
+    border: 1pxsolid#eceff4;
+    height: 80vh;
+    background-color: #fcfcfd;
+}
+
+#template-imedn {
+    padding: 0000;
+}
+
+#template-id4cw {
+    padding: 10px;
+    margin: 10px010px0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#template-i75o4 {
+    flex-wrap: wrap;
+    padding: 0000;
+}
+
+#template-iezlw {
+    color: black;
+    width: 30px;
+    align-self: center;
+}
+
+#template-ihkmi {
+    color: #000000;
+    align-self: center;
+    margin: 00010px;
+}
+
+#template-iayfi {
+    flex-wrap: nowrap;
+    display: flex;
+    align-self: center;
+    min-height: 50px;
+}
+
+#template-iwl5m {
+    color: black;
+    width: 30px;
+    align-self: center;
+}
+
+#template-itb3h {
+    color: #000000;
+    align-self: center;
+    margin: 00010px;
+}
+
+#template-iyhls {
+    flex-wrap: nowrap;
+    display: flex;
+    align-self: center;
+    min-height: 50px;
+}
+
+#template-ixy8i {
+    color: black;
+    width: 30px;
+    align-self: center;
+}
+
+#template-iywxn {
+    color: #000000;
+    align-self: center;
+    margin: 00010px;
+}
+
+#template-iwk03 {
+    flex-wrap: nowrap;
+    display: flex;
+    align-self: center;
+    min-height: 50px;
+}
+
+#template-i9k9h {
+    border: 0solid#bea2a2;
+    transform: translateX(0px)translateY(0px);
+    padding: 010px00;
+    flex-basis: 100%;
+    margin: 0000;
+}
+
+#template-if09g {
+    align-self: center;
+    flex-basis: 50%;
+}
+
+#template-ij43m {
+    text-align: right;
+    align-self: center;
+}
+
+#template-itl8h {
+    padding: 10px;
+    align-self: center;
+    display: flex;
+    font-size: 19px;
+    font-family: BrushScriptMTsans-serif;
+    font-weight: 700;
+}
+
+#template-i3gvo {
+    align-self: center;
+    padding: 0000;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    border-radius: 0000;
+    border: 1pxsolid#eceff4;
+}
+
+#template-ivczj {
+    width: 300px;
+}
+
+#template-in2gc {
+    width: 37px;
+    height: 37px;
+    margin: 020px020px;
+    border: 0solid#eceff4;
+    background-color: #eceff4;
+    color: #000000;
+}
+
+#template-i9a4z {
+    padding: 0000;
+}
+
+#template-i2cvx {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+
+#template-i7q3y {
+    width: 15%;
+    max-width: 15%;
+    height: 35px;
+    min-height: 20px;
+    padding: 00010px;
+}
+
+@media(max-width:768px) {
+    .gjs-row {
+        flex-wrap: wrap;
+    }
+}
+
+@mediascreenand(max-height:450px) {
+    .sidenava {
+        font-size: 18px;
+    }
+}
