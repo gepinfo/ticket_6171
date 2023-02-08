@@ -54,14 +54,14 @@ service:
   systementry: 
     name: systementry
     type: NodePort
-    port: 8016
-    targetPort: 8016
+    port: 8018
+    targetPort: 8018
 
   test: 
     name: test
     type: NodePort
-    port: 8017
-    targetPort: 8017
+    port: 8019
+    targetPort: 8019
 
 
 deployment:
